@@ -1,5 +1,5 @@
 # 2D-Minecraft
-An old project from 2016. This is a 2d minecraft clone, created in java with the swing component.
+An old project from 2015. This is a 2d minecraft clone, created in java with the swing component.
 The project was never finished, but includes a playable version of the game with crafting, infinite world generation, dynamic lightning etc.
 I have no plan to continue the development.
 
